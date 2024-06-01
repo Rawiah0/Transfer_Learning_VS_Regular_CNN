@@ -1,1 +1,1 @@
-# Transfer_learning_VS_Regular_CNN
+# Transfer_Learning_VS_Regular_CNN
